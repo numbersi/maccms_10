@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c8b2ffcc-8603-4887-a648-8605a5556c76" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/admin/view/public/head.html" afterPath="$PROJECT_DIR$/application/admin/view/public/head.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,8 +47,8 @@
       <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/admin/view/public/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="72" lean-forward="true" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+            <state relative-caret-position="285">
+              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -359,7 +360,7 @@
       <workItem from="1533432763946" duration="25684000" />
       <workItem from="1533567330273" duration="1633000" />
       <workItem from="1533606292314" duration="6067000" />
-      <workItem from="1534044052654" duration="14224000" />
+      <workItem from="1534044052654" duration="14424000" />
     </task>
     <task id="LOCAL-00001" summary="更新图片">
       <created>1533437407675</created>
@@ -564,11 +565,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534096751526</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="初始化">
+      <created>1534096759500</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1534096759500</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47608000" />
+    <option name="totallyTimeSpent" value="47808000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -708,10 +716,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1534096739938" expanded="true" signature="55048:55090" ph="..." />
-            <marker date="1534096739938" expanded="true" signature="55048:55108" ph="..." />
-            <marker date="1534096739938" expanded="true" signature="55048:55121" ph="..." />
-            <marker date="1534096739938" expanded="true" signature="55048:55136" ph="..." />
+            <marker date="1534096954570" expanded="true" signature="55427:55469" ph="..." />
+            <marker date="1534096954570" expanded="true" signature="55427:55487" ph="..." />
+            <marker date="1534096954570" expanded="true" signature="55427:55500" ph="..." />
+            <marker date="1534096954570" expanded="true" signature="55427:55515" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1064,8 +1072,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/admin/view/public/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="72" lean-forward="true" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+        <state relative-caret-position="285">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding />
         </state>
       </provider>
