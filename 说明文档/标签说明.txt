@@ -100,7 +100,7 @@ user/upgrade.html     用户中心-会员升级
 {$maccms.site_status}网站状态1开启0关闭
 {$maccms.site_close_tip}网站关闭提示信息
 {$maccms.path}网站目录
-{$maccms.path_tpl}当前模板目录
+__TEMPLATE__{$maccms.path_tpl}当前模板目录
 {$maccms.search_hot}       热门搜索词
 {$maccms.art_extend_class}       全局文章扩展分类
 {$maccms.vod_extend_class}       全局视频扩展分类

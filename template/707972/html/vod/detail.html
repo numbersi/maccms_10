@@ -41,7 +41,7 @@
                     <div class="play_source">
 					<!-- 选择播放源 -->
 						<div class="play_source_tab clearfix" id="playNumTab">{maccms:foreach name="obj.vod_play_list" id="vo"}
-                        <a href="javascript:void(0);" target="_self" {if condition="$key eq 1"}class="cur"{/if} rel="nofollow" apiname="{$vo.from}" id="api_{$vo.from}" alt="{$vo.player_info.show}"><img width="22" height="22" src="{$maccms.path_tpl}images/{$vo.from}.png">{$vo.player_info.show}</a>{/maccms:foreach}
+                        <a href="javascript:void(0);" target="_self" {if condition="$key eq 1"}class="cur"{/if} rel="nofollow" apiname="{$vo.from}" id="api_{$vo.from}" alt="{$vo.player_info.show}"><img width="22" height="22" src="__TEMPLATE__{$maccms.path_tpl}images/{$vo.from}.png">{$vo.player_info.show}</a>{/maccms:foreach}
                         <i class="iLine"></i>
 						</div>
 					<!-- 选择播放源 -->
@@ -115,7 +115,7 @@
 <span style="display:none" class="mac_ulog_set" alt="设置内容页浏览记录" data-type="1" data-mid="{$maccms.mid}" data-id="{$obj.vod_id}" data-sid="{$param.sid}" data-nid="{$param.nid}"></span>
 <span style="display:none" class="mac_history_set" alt="设置History历史记录" data-name="[{$obj.type.type_name}]{$obj.vod_name}" data-pic="{$obj.vod_pic|mac_url_img|mac_url_img}"></span>
 {include file="public/foot"}
-    <script src="{$maccms.path_tpl}js/lazyload.min.js"></script>
-    <script src="{$maccms.path_tpl}js/app.js"></script>
+    <script src="__TEMPLATE__{$maccms.path_tpl}js/lazyload.min.js"></script>
+    <script src="__TEMPLATE__{$maccms.path_tpl}js/app.js"></script>
 </body>
 </html>
