@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/template/default_pc/html/public/include.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+              <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -375,7 +375,7 @@
       <workItem from="1534334592349" duration="201000" />
       <workItem from="1534500652017" duration="1387000" />
       <workItem from="1534554020547" duration="641000" />
-      <workItem from="1534584544584" duration="1710000" />
+      <workItem from="1534584544584" duration="1859000" />
     </task>
     <task id="LOCAL-00001" summary="更新图片">
       <created>1533437407675</created>
@@ -643,11 +643,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534585105615</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="logo更改">
+      <created>1534590862481</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1534590862481</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63267000" />
+    <option name="totallyTimeSpent" value="63416000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1080,7 +1087,7 @@
     <entry file="file://$PROJECT_DIR$/template/default_pc/html/public/include.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
           <folding />
         </state>
       </provider>
